@@ -1,7 +1,7 @@
 # Road to Computational Science
 * Python for Computational science library roadmap
   * numpy
-  * mathplotlib
+  * matplotlib
   * sympy
   * scipy
   * etc.
